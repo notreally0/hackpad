@@ -13,6 +13,7 @@ My own very little hackpad!
 ## PCB
 ![Image1](PCB/image1.png) <br>
 ![Image2](PCB/image2.png) <br>
+![Image3](PCB/image3.png) <br>
 ## CAD
 ![Image4](CAD/image4.png) <br>
 ![Image5](CAD/image5.png) <br>
